@@ -12,7 +12,7 @@ This project is a monorepo of packages with well-defined purposes. All of the fo
 
 This is the backbone of the NanoZK project. It houses the main functionalities, algorithms, and computations related to Zero-Knowledge Proofs. The core is responsible for tasks such as generating proofs, verifying proofs, and handling cryptographic operations.
 
-### `@nanozk/sdk`
+### `@nanozk/sdk-ts`
 
 The typescript SDK is the user-facing interface for integrating and working with NanoZK. It provides high-level APIs that allow users to interact with NanoZK's core functionalities in a simple and user-friendly way. The SDK is designed to make it easy for developers to work with Zero-Knowledge Proofs, abstracting away the complexities involved.
 
