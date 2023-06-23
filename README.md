@@ -18,7 +18,7 @@
   <br />
   <br />
   <figure>
-    <img src="https://assets.trpc.io/www/v10/v10-dark-landscape.gif" alt="Demo" />
+    <img src="https://i.imgur.com/Ri3Wj2Q.png" alt="Example of using ZKWasm. Code for this can be found in the docs." />
     <figcaption>
       <p align="center">
         <strong>Zero-Knowledge Proof</strong> - <a href="https://nanozk.com/docs">Documentation</a>
